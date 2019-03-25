@@ -1,6 +1,6 @@
 owner=508259209742123018
 prefix=.
-game=Break | .play
+game=MaySstro | .play
 stayinchannel=true
 songinstatus=false
 token=NTU5NzQ1NzIzOTkwNTQwMzEw.D3p3yg.9cZoWjJn7nx1BFxWzWypiJR_suw
