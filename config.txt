@@ -3,4 +3,4 @@ prefix=.
 game=MaySstro | .play
 stayinchannel=true
 songinstatus=false
-token=NTU5NzQ1NzIzOTkwNTQwMzEw.D3p3yg.9cZoWjJn7nx1BFxWzWypiJR_suw
+token=NTM1MTI3OTUxODA5ODM5MTA1.D3raEA.EqyUHpmmnnUxHL_mTori2KDE7E4
